@@ -6,7 +6,7 @@ import { Carousel } from "react-responsive-carousel";
 
 
 export default () => (
-    <Carousel width="50%" centerMode="true">
+    <Carousel width="80%" centerMode useKeyboardArrows>
       <div>
         <img alt="" src={eiffel} />
         <p className="legend">Legend 1</p>
