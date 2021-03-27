@@ -13,9 +13,18 @@
     backdrop-filter: blur(20px);
 }
 
-.HeaderGroup {
+.HeaderLine1 {
     max-width: 800px;
     margin: 0 auto;
+    align-items: center;
+    justify-items: center;
+}
+
+.HeaderLine2{
+    max-width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(6, auto);
     align-items: center;
     justify-items: center;
 }
@@ -24,6 +33,13 @@
     text-align: center;
     font-size: 45px;
     font-weight: 700;
+}
+
+.Header a {
+    color: black;
+    font-weight: 700;
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+    text-decoration: none;
 }
 
 .Header a:hover {
@@ -53,16 +69,3 @@
     border-radius: 50%;
 }
 
-@media (max-width: 640px) {
-    .Header {
-        padding: 15px 0;
-    }
-
-    .HeaderGroup {
-        grid-template-columns: repeat(4, auto);
-    }
-
-    .Header a:nth-child(4) {
-        display: none;
-    }
-}
