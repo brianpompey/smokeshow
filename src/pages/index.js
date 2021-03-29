@@ -33,6 +33,8 @@ import charoff from "../images/charoff.jpg"
 import bandera from "../images/bandera.png"
 import highland from "../images/highland.png"
 import wichita from "../images/loaded-wichita.jpg"
+import mb560 from "../images/MB560.jpg"
+import mb1050 from "../images/MB1050.jpg"
 
 
 import Layout from "../components/layout"
@@ -332,48 +334,18 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-gravity">
-      <h3>Cabinet/Gravity Fed Smokers</h3>
+      <h3>Gravity Fed Smokers</h3>
         <div className="smoker-group">
-          <div className="budget">
-              <p>Basic/Budget Option</p>
               <Card 
-                title="Smoke Hollow 26142E "
-                text="Electric $149"
-                url="https://www.amazon.com/dp/B00NP3U6CG?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smhollow} />
+                title="MasterBuilt 560"
+                text="Gravity $500"
+                url="https://www.masterbuilt.com/collections/smokers/products/gravity-series-560-digital-charcoal-grill-smoker"
+                image={ mb560 } />
               <Card 
-                title="Smokehouse Products Big Chief Electric Smoker"
-                text="Electric $124"
-                url="https://www.amazon.com/dp/B000ZL182I?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smokehouse} />
-            </div>
-            <div className="next-tier">
-              <p>A little more expensive</p>
-              <Card 
-                title="Dyna-Glo DGU732SDE"
-                text="Electric $302"
-                url="https://www.amazon.com/dp/B07D5TH7ZP?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ elecdyna } />
-              <Card 
-                title="Char-Broil 17202004"
-                text="Electric $260"
-                url="https://www.amazon.com/dp/B00SMRXYCE?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ charbroilelec } />
-            </div>
-            <div className="expensive">
-              <p>Peak Tier</p>
-              <Card 
-                title="Masterbuilt MB20074719"
-                text="Electric $400"
-                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ mbelecexp} />
-              <Card 
-                title="Smokin-It Model #2"
-                text="Electric $570"
-                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ smokinit } />
-            </div>
-
+                title="MasterBuilt 1050"
+                text="Gravity $800"
+                url="https://www.masterbuilt.com/collections/smokers/products/gravity-series-1050-digital-charcoal-grill-smoker"
+                image={ mb1050 } />
         </div>
       </div>
     <hr />
