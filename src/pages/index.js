@@ -44,7 +44,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-drum">
-        <p>drum</p>
+        <p>drum/vertical</p>
       </div>
     <hr />
       <div className="smokers-offset">
@@ -52,7 +52,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-gravity">
-        <p>gravity</p>
+        <p>gravity/cabinet</p>
       </div>
     <hr />
     </div>
