@@ -27,6 +27,10 @@ const IndexPage = () => (
         <p>charcoal</p>
       </div>
     <hr />
+      <div className="smokers-gas">
+        <p>gas/propane</p>
+      </div>
+    <hr />
       <div className="smokers-electric">
         <p>electric</p>
       </div>
