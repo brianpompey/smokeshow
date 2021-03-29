@@ -1,11 +1,13 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import weber from "../images/weber.jpg"
 
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Carousel from "../components/Carousel"
+import Card from "../components/Card"
 
 const IndexPage = () => (
   <Layout>
@@ -25,6 +27,11 @@ const IndexPage = () => (
       <h2>Let's take a look at each smoker type and some examples that you can purchase!</h2>
       <div className="smokers-kettle">
         <p>kettle</p>
+        <Card 
+            title="Weber Kettle"
+            text="Kettle Smoker"
+            url="https://www.weber.com/US/en/home/"
+            image={ weber } />
       </div>
     <hr />
       <div className="smokers-gas">
