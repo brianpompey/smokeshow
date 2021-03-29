@@ -29,6 +29,10 @@ import charvert from "../images/charvert.jpg"
 import gateway from "../images/gateway.jpg"
 import pitbarrel from "../images/pitbarrel.jpg"
 import websmokey from "../images/websmokey.jpg"
+import charoff from "../images/charoff.jpg"
+import bandera from "../images/bandera.png"
+import highland from "../images/highland.png"
+import wichita from "../images/loaded-wichita.jpg"
 
 
 import Layout from "../components/layout"
@@ -297,41 +301,31 @@ const IndexPage = () => (
           <div className="budget">
               <p>Basic/Budget Option</p>
               <Card 
-                title="Smoke Hollow 26142E "
-                text="Electric $149"
-                url="https://www.amazon.com/dp/B00NP3U6CG?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smhollow} />
+                title="Char-Griller E1224 "
+                text="Offset $287"
+                url="https://www.amazon.com/dp/B0009NU5YY?tag=smbbre-20&linkCode=ogi&th=1&psc=1"
+                image={ charoff } />
               <Card 
-                title="Smokehouse Products Big Chief Electric Smoker"
-                text="Electric $124"
-                url="https://www.amazon.com/dp/B000ZL182I?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smokehouse} />
+                title="Highland Offset"
+                text="Offset $300"
+                url="https://www.oklahomajoes.com/highland-offset-smoker"
+                image={ highland } />
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
               <Card 
-                title="Dyna-Glo DGU732SDE"
-                text="Electric $302"
-                url="https://www.amazon.com/dp/B07D5TH7ZP?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ elecdyna } />
-              <Card 
-                title="Char-Broil 17202004"
-                text="Electric $260"
-                url="https://www.amazon.com/dp/B00SMRXYCE?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ charbroilelec } />
+                title="Bandera"
+                text="Offset $450"
+                url="https://www.oklahomajoes.com/bandera-vertical-offset-smoker"
+                image={ bandera } />
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
               <Card 
-                title="Masterbuilt MB20074719"
-                text="Electric $400"
-                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ mbelecexp} />
-              <Card 
-                title="Smokin-It Model #2"
-                text="Electric $570"
-                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ smokinit } />
+                title="Yoder Wichita"
+                text="Offset $2400"
+                url="https://www.yodersmokers.com/backyard/the-loaded-wichita/"
+                image={ wichita} />
             </div>
 
         </div>
