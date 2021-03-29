@@ -30,29 +30,31 @@ const IndexPage = () => (
       <div className="smokers-kettle">
         <h3>Kettle Grills -  a staple in the backyard bbq community</h3>
 
-        <div class="budget">
-          <p>Basic/Budget Option</p>
-          <Card 
-            title="Weber Kettle"
-            text="Kettle Smoker"
-            url="https://www.weber.com/US/en/home/"
-            image={ weber } />
-        </div>
-        <div class="next-tier">
-          <p>Basic/Budget Option</p>
-          <Card 
-            title="Weber Kettle Premium"
-            text="Kettle Smoker"
-            url="https://www.weber.com/US/en/home/"
-            image={ weberpro } />
-        </div>
-        <div class="expensive">
-          <p>Basic/Budget Option</p>
-          <Card 
-            title="Weber Kettle Performer"
-            text="Kettle Smoker"
-            url="https://www.weber.com/US/en/home/"
-            image={ webersuper } />
+        <div className="kettle-group">
+          <div class="budget">
+            <p>Basic/Budget Option</p>
+            <Card 
+              title="Weber Kettle"
+              text="Kettle Smoker"
+              url="https://www.weber.com/US/en/home/"
+              image={ weber } />
+          </div>
+          <div class="next-tier">
+            <p>A little more expensive</p>
+            <Card 
+              title="Weber Kettle Premium"
+              text="Kettle Smoker"
+              url="https://www.weber.com/US/en/home/"
+              image={ weberpro } />
+          </div>
+          <div class="expensive">
+            <p>Peak Tier</p>
+            <Card 
+              title="Weber Kettle Performer"
+              text="Kettle Smoker"
+              url="https://www.weber.com/US/en/home/"
+              image={ webersuper } />
+          </div>
         </div>
       </div>
     <hr />
