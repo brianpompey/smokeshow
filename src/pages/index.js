@@ -26,12 +26,32 @@ const IndexPage = () => (
     <div className="smokers">
       <h2>Let's take a look at each smoker type and some examples that you can purchase!</h2>
       <div className="smokers-kettle">
-        <h3>Kettle Grills</h3>
-        <Card 
+        <h3>Kettle Grills -  a staple in the backyard bbq community</h3>
+
+        <div class="budget">
+          <p>Basic/Budget Option</p>
+          <Card 
             title="Weber Kettle"
             text="Kettle Smoker"
             url="https://www.weber.com/US/en/home/"
             image={ weber } />
+        </div>
+        <div class="next-tier">
+          <p>Basic/Budget Option</p>
+          <Card 
+            title="Weber Kettle"
+            text="Kettle Smoker"
+            url="https://www.weber.com/US/en/home/"
+            image={ weber } />
+        </div>
+        <div class="expensive">
+          <p>Basic/Budget Option</p>
+          <Card 
+            title="Weber Kettle"
+            text="Kettle Smoker"
+            url="https://www.weber.com/US/en/home/"
+            image={ weber } />
+        </div>
       </div>
     <hr />
       <div className="smokers-gas">
