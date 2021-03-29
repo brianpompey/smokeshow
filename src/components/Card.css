@@ -30,14 +30,14 @@
 }
 
 .Card h3 {
-    color: black;
+    color: red;
     font-size: 30px;
     margin: 20px 0 0 20px;
     width: 190px;
 }
 
 .Card p {
-    color: black;
+    color: brown;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 18px;
