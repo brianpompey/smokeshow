@@ -9,6 +9,12 @@ import mbexp from "../images/masterbuilt-exp.jpg"
 import char from "../images/charbroil.png"
 import campsmoke from "../images/campchefsmokevault.jpg"
 import dyna from "../images/dynaglo.jpg"
+import charbroilelec from "../images/charbroilelec.jpg"
+import elecdyna from "../images/elecdyna.png"
+import mbelecexp from "../images/mbelecexp.jpg"
+import smhollow from "../images/smhollow.jpg"
+import smokehouse from "../images/smokehouse.jpg"
+import smokinit from "../images/smokinit.jpg"
 
 
 import Layout from "../components/layout"
@@ -35,8 +41,8 @@ const IndexPage = () => (
       <div className="smokers-kettle">
         <h3>Kettle Grills -  a staple in the backyard bbq community</h3>
 
-        <div className="kettle-group">
-          <div class="budget">
+        <div className="smoker-group">
+          <div className="budget">
             <p>Basic/Budget Option</p>
             <Card 
               title="Weber Kettle"
@@ -44,7 +50,7 @@ const IndexPage = () => (
               url="https://www.weber.com/US/en/home/"
               image={ weber } />
           </div>
-          <div class="next-tier">
+          <div className="next-tier">
             <p>A little more expensive</p>
             <Card 
               title="Weber Kettle Premium"
@@ -52,7 +58,7 @@ const IndexPage = () => (
               url="https://www.weber.com/US/en/home/"
               image={ weberpro } />
           </div>
-          <div class="expensive">
+          <div className="expensive">
             <p>Peak Tier</p>
             <Card 
               title="Weber Kettle Performer"
@@ -67,8 +73,8 @@ const IndexPage = () => (
       <div className="smokers-gas">
       <h3>Propane Smokers - not for the "purist" but they sure are convenient</h3>
 
-      <div className="propane-group">
-        <div class="budget">
+      <div className="smoker-group">
+        <div className="budget">
             <p>Basic/Budget Option</p>
             <Card 
               title="Masterbuilt MB20050116 "
@@ -81,7 +87,7 @@ const IndexPage = () => (
               url="https://www.charbroil.com/vertical-gas-smoker-12701705"
               image={ char } />
           </div>
-          <div class="next-tier">
+          <div className="next-tier">
             <p>A little more expensive</p>
             <Card 
               title="CampChef SmokeVault"
@@ -94,7 +100,7 @@ const IndexPage = () => (
               url="https://www.amazon.com/Dyna-Glo-DGY784BDP-Vertical-Gas-Smoker/dp/B007YX9KRU/ref=as_li_ss_tl?keywords=gas+smoker&qid=1561191480&s=gateway&sr=8-6&linkCode=ll1&tag=smbbre-20&linkId=4fa55067152bbf7d70fba3d48ec6af61&language=en_US"
               image={ dyna } />
           </div>
-          <div class="expensive">
+          <div className="expensive">
             <p>Peak Tier</p>
             <Card 
               title="Masterbuilt MB20051316"
@@ -107,8 +113,49 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-electric">
-        <p>electric</p>
-        
+        <h3>Electric Smokers</h3>
+        <div className="smoker-group">
+          <div className="budget">
+              <p>Basic/Budget Option</p>
+              <Card 
+                title="Smoke Hollow 26142E "
+                text="Electric $149"
+                url="https://www.amazon.com/dp/B00NP3U6CG?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                image={ smhollow} />
+              <Card 
+                title="Smokehouse Products Big Chief Electric Smoker"
+                text="Electric $124"
+                url="https://www.amazon.com/dp/B000ZL182I?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                image={ smokehouse} />
+            </div>
+            <div className="next-tier">
+              <p>A little more expensive</p>
+              <Card 
+                title="Dyna-Glo DGU732SDE"
+                text="Electric $302"
+                url="https://www.amazon.com/dp/B07D5TH7ZP?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
+                image={ elecdyna } />
+              <Card 
+                title="Char-Broil 17202004"
+                text="Electric $260"
+                url="https://www.amazon.com/dp/B00SMRXYCE?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                image={ charbroilelec } />
+            </div>
+            <div className="expensive">
+              <p>Peak Tier</p>
+              <Card 
+                title="Masterbuilt MB20074719"
+                text="Electric $400"
+                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                image={ mbelecexp} />
+              <Card 
+                title="Smokin-It Model #2"
+                text="Electric $570"
+                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
+                image={ smokinit } />
+            </div>
+
+        </div>
       </div>
     <hr />
       <div className="smokers-pellet">
