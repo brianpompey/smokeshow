@@ -15,6 +15,12 @@ import mbelecexp from "../images/mbelecexp.jpg"
 import smhollow from "../images/smhollow.jpg"
 import smokehouse from "../images/smokehouse.jpg"
 import smokinit from "../images/smokinit.jpg"
+import green from "../images/greenmountain.jpg"
+import pitboss from "../images/pitboss.jpg"
+import zgrill from "../images/zgrill.jpg"
+import campcheap from "../images/campchef-cheap.jpg"
+import campchef from "../images/campchef.jpg"
+import traeger from "../images/traeger.png"
 
 
 import Layout from "../components/layout"
@@ -167,12 +173,12 @@ const IndexPage = () => (
                 title="PIT BOSS PB440 "
                 text="Pellet $349"
                 url="https://pitboss-grills.com/wood-pellet/440-deluxe-wood-pellet-grill-mahogany"
-                image={ smhollow} />
+                image={ pitboss } />
               <Card 
                 title="Green Mountain Davy Crockett Sense"
                 text="Pellet $299"
                 url="https://www.amazon.com/Green-Mountain-Grills-Crockett-Controlled/dp/B078RXH95C/?tag=aboutcom02thespruceeats-20&ascsubtag=4159120%7Cn19db9c24a7864577b8e4e2e02d14f24b18"
-                image={ charbroilelec } />
+                image={ green } />
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
@@ -180,25 +186,25 @@ const IndexPage = () => (
                 title="Camp Chef SmokePro DLX "
                 text="Pellet 484"
                 url="https://www.amazon.com/Camp-Chef-PG24DLX-Controls-Stainless/dp/B00DVELGT6/?tag=aboutcom02thespruceeats-20&ascsubtag=4159120%7Cn19db9c24a7864577b8e4e2e02d14f24b18"
-                image={ elecdyna } />
+                image={ campcheap } />
               <Card 
                 title="Z GRILLS-700D"
                 text="Pellet $569"
                 url="https://zgrills.com/products/zpg-700d-pellet-grill?sscid=31k5_u282e"
-                image={ smokehouse} />
+                image={ zgrill } />
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
               <Card 
-                title="Masterbuilt MB20074719"
-                text="Electric $400"
-                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ mbelecexp} />
+                title="TRAEGER TIMBERLINE 850 "
+                text="Pellet $1800"
+                url="https://www.traegergrills.com/pellet-grills/timberline/850"
+                image={ traeger } />
               <Card 
-                title="Smokin-It Model #2"
-                text="Electric $570"
-                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ smokinit } />
+                title="Camp Chef WOODWIND WIFI 36"
+                text="Pellet $1200"
+                url="https://www.campchef.com/wood-pellet-grills-and-accessories/all-pellet-grills/woodwind-wifi-36-with-sidekick.html"
+                image={ campchef } />
             </div>
 
         </div>
