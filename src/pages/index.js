@@ -21,6 +21,9 @@ import zgrill from "../images/zgrill.jpg"
 import campcheap from "../images/campchef-cheap.jpg"
 import campchef from "../images/campchef.jpg"
 import traeger from "../images/traeger.png"
+import acorn from "../images/acorn.jpg"
+import biggreenegg from "../images/biggreen.jpg"
+import kamado from "../images/kamado.jpg"
 
 
 import Layout from "../components/layout"
@@ -216,41 +219,26 @@ const IndexPage = () => (
           <div className="budget">
               <p>Basic/Budget Option</p>
               <Card 
-                title="Smoke Hollow 26142E "
-                text="Electric $149"
-                url="https://www.amazon.com/dp/B00NP3U6CG?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smhollow} />
-              <Card 
-                title="Smokehouse Products Big Chief Electric Smoker"
-                text="Electric $124"
-                url="https://www.amazon.com/dp/B000ZL182I?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smokehouse} />
+                title="Char-Griller E16620 Akorn "
+                text="Kamado $300"
+                url="https://www.amazon.com/Char-Griller-16620-Kamado-Charcoal-Barbecue/dp/B00GJEPTJS?tag=cnet-buy-button-20&ascsubtag=___COM_CLICK_ID___%7C___VIEW_GUID___%7Cdtp"
+                image={ acorn } />
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
               <Card 
-                title="Dyna-Glo DGU732SDE"
-                text="Electric $302"
-                url="https://www.amazon.com/dp/B07D5TH7ZP?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ elecdyna } />
-              <Card 
-                title="Char-Broil 17202004"
-                text="Electric $260"
-                url="https://www.amazon.com/dp/B00SMRXYCE?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ charbroilelec } />
+                title="Big Green Egg"
+                text="Kamado $900"
+                url="https://biggreenegg.com/product/large-big-green-egg/"
+                image={ biggreenegg } />
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
               <Card 
-                title="Masterbuilt MB20074719"
-                text="Electric $400"
-                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ mbelecexp} />
-              <Card 
-                title="Smokin-It Model #2"
-                text="Electric $570"
-                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ smokinit } />
+                title="Kamado Joe"
+                text="Kamado $1600"
+                url="https://www.amazon.com/Kamado-Joe-KJ23RHCI-Classic-Charcoal/dp/B07QHKYS6G?tag=cnet-buy-button-20&ascsubtag=___COM_CLICK_ID___%7C___VIEW_GUID___%7Cdtp"
+                image={ kamado } />
             </div>
 
         </div>
