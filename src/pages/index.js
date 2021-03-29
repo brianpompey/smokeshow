@@ -35,7 +35,7 @@ const IndexPage = () => (
             <p>Basic/Budget Option</p>
             <Card 
               title="Weber Kettle"
-              text="Kettle Smoker"
+              text="Kettle Smoker $109"
               url="https://www.weber.com/US/en/home/"
               image={ weber } />
           </div>
@@ -43,7 +43,7 @@ const IndexPage = () => (
             <p>A little more expensive</p>
             <Card 
               title="Weber Kettle Premium"
-              text="Kettle Smoker"
+              text="Kettle Smoker $165"
               url="https://www.weber.com/US/en/home/"
               image={ weberpro } />
           </div>
@@ -51,20 +51,49 @@ const IndexPage = () => (
             <p>Peak Tier</p>
             <Card 
               title="Weber Kettle Performer"
-              text="Kettle Smoker"
+              text="Kettle Smoker $439"
               url="https://www.weber.com/US/en/home/"
               image={ webersuper } />
           </div>
         </div>
-        <p>The Weber is a classic addition to any backyard. Most people can remember seeing their dad or uncle flipping burgers, hot dogs, or ribs on a Weber in their childhood years.</p>
+        <p>The Weber is a classic addition to any backyard. Most people can remember seeing their dad or uncle flipping burgers, hot dogs, or ribs on a Weber in their childhood years. The most basic level is pretty affordable at about $100 is it's a great starter grill for anyone to get started at the art of building/managing fires. If you have more funds to start out with or are just in love with the kettle style, feel free to upgrade to one of the more premium options which have more advanced features such as one-touch cleaning and side tables.</p>
       </div>
     <hr />
       <div className="smokers-gas">
-        <p>gas/propane</p>
+      <h3>Propane Smokers - not for the "purist" but they sure are convenient</h3>
+
+      <div className="propane-group">
+        <div class="budget">
+            <p>Basic/Budget Option</p>
+            <Card 
+              title="Weber Kettle"
+              text="Kettle Smoker $109"
+              url="https://www.weber.com/US/en/home/"
+              image={ weber } />
+          </div>
+          <div class="next-tier">
+            <p>A little more expensive</p>
+            <Card 
+              title="Weber Kettle Premium"
+              text="Kettle Smoker $165"
+              url="https://www.weber.com/US/en/home/"
+              image={ weberpro } />
+          </div>
+          <div class="expensive">
+            <p>Peak Tier</p>
+            <Card 
+              title="Weber Kettle Performer"
+              text="Kettle Smoker $439"
+              url="https://www.weber.com/US/en/home/"
+              image={ webersuper } />
+          </div>
+
+        </div>
       </div>
     <hr />
       <div className="smokers-electric">
         <p>electric</p>
+        
       </div>
     <hr />
       <div className="smokers-pellet">
