@@ -36,7 +36,11 @@ body {
   justify-items: center;
 }
 
-.kettle-group a {
-  text-decoration: none;
+.propane-group {
+  margin: 50px 40px 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
 }
 

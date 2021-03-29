@@ -75,18 +75,18 @@ const IndexPage = () => (
               url="https://www.amazon.com/Masterbuilt-MB20050116-Patio-2-Portable-Propane-Smoker/dp/B079K9VR46/ref=as_li_ss_tl?keywords=propane+smoker&qid=1565053092&s=gateway&sr=8-9&linkCode=ll1&tag=smbbre-20&linkId=c5668e86287ffe4f6ecda3d86cbf6907&language=en_US"
               image={ mbcheap } />
             <Card 
-              title="Weber Kettle"
-              text="Kettle Smoker $109"
-              url="https://www.weber.com/US/en/home/"
-              image={ weber } />
+              title="Charbroil 595"
+              text="Propane $189"
+              url="https://www.charbroil.com/vertical-gas-smoker-12701705"
+              image={ char } />
           </div>
           <div class="next-tier">
             <p>A little more expensive</p>
             <Card 
-              title="Weber Kettle Premium"
-              text="Kettle Smoker $165"
-              url="https://www.weber.com/US/en/home/"
-              image={ weberpro } />
+              title="CampChef SmokeVault"
+              text="Propane $229"
+              url="https://www.homedepot.com/p/Camp-Chef-Smoke-Vault-18-in-Propane-Gas-Smoker-SMV18S/203591382?irgwc=1&cm_mmc=afl-ir-10078-456723-thespruceeats.com&clickid=2Gf2Y-R2IxyLUPnwUx0Mo372UkEXsVQBo2i1Rk0"
+              image={ campsmoke } />
             <Card 
               title="Weber Kettle Premium"
               text="Kettle Smoker $165"
@@ -99,7 +99,7 @@ const IndexPage = () => (
               title="Weber Kettle Performer"
               text="Kettle Smoker $439"
               url="https://www.weber.com/US/en/home/"
-              image={ webersuper } />
+              image={ mbexp } />
           </div>
 
         </div>
