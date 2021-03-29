@@ -23,8 +23,8 @@ const IndexPage = () => (
 
     <div className="smokers">
       <h2>Let's take a look at each smoker type and some examples that you can purchase!</h2>
-      <div className="smokers-charcoal">
-        <p>charcoal</p>
+      <div className="smokers-kettle">
+        <p>kettle</p>
       </div>
     <hr />
       <div className="smokers-gas">
@@ -40,7 +40,11 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-ceramic">
-        <p>ceramic</p>
+        <p>ceramic/kamado</p>
+      </div>
+    <hr />
+      <div className="smokers-drum">
+        <p>drum</p>
       </div>
     <hr />
       <div className="smokers-offset">
