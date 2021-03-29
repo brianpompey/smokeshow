@@ -8,6 +8,7 @@ import mbcheap from "../images/masterbuilt-cheap.jpg"
 import mbexp from "../images/masterbuilt-exp.jpg"
 import char from "../images/charbroil.png"
 import campsmoke from "../images/campchefsmokevault.jpg"
+import dyna from "../images/dynaglo.jpg"
 
 
 import Layout from "../components/layout"
@@ -88,17 +89,17 @@ const IndexPage = () => (
               url="https://www.homedepot.com/p/Camp-Chef-Smoke-Vault-18-in-Propane-Gas-Smoker-SMV18S/203591382?irgwc=1&cm_mmc=afl-ir-10078-456723-thespruceeats.com&clickid=2Gf2Y-R2IxyLUPnwUx0Mo372UkEXsVQBo2i1Rk0"
               image={ campsmoke } />
             <Card 
-              title="Weber Kettle Premium"
-              text="Kettle Smoker $165"
-              url="https://www.weber.com/US/en/home/"
-              image={ weberpro } />
+              title="Dyna-Glo DGY784BDP"
+              text="Propane $200"
+              url="https://www.amazon.com/Dyna-Glo-DGY784BDP-Vertical-Gas-Smoker/dp/B007YX9KRU/ref=as_li_ss_tl?keywords=gas+smoker&qid=1561191480&s=gateway&sr=8-6&linkCode=ll1&tag=smbbre-20&linkId=4fa55067152bbf7d70fba3d48ec6af61&language=en_US"
+              image={ dyna } />
           </div>
           <div class="expensive">
             <p>Peak Tier</p>
             <Card 
-              title="Weber Kettle Performer"
-              text="Kettle Smoker $439"
-              url="https://www.weber.com/US/en/home/"
+              title="Masterbuilt MB20051316"
+              text="Propane $400"
+              url="https://www.amazon.com/dp/B07NQPLB1Q?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4160510%7Cna8f936af0c614da883410cbda18e20a916"
               image={ mbexp } />
           </div>
 
