@@ -26,7 +26,7 @@ const IndexPage = () => (
     <div className="smokers">
       <h2>Let's take a look at each smoker type and some examples that you can purchase!</h2>
       <div className="smokers-kettle">
-        <p>kettle</p>
+        <h3>Kettle Grills</h3>
         <Card 
             title="Weber Kettle"
             text="Kettle Smoker"
