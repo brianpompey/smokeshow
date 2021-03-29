@@ -33,8 +33,8 @@ class Header extends React.Component {
           <h1>SmokeShow</h1>
         </div>
         <div className="HeaderLine2">
-          <Link to="/about/">About Me</Link>
-          <Link to="/resume/">My Resume</Link>
+          <Link to="https://www.instagram.com/chefpompei/">Chef Pompei</Link>
+          <Link to="https://www.instagram.com/welcometothebbq_/">WTTB</Link>
           <Link to="/blogs/">Blog Posts</Link>
         </div>
       </div>
