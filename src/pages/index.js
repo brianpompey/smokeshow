@@ -56,6 +56,7 @@ const IndexPage = () => (
               image={ webersuper } />
           </div>
         </div>
+        <p>The Weber is a classic addition to any backyard. Most people can remember seeing their dad or uncle flipping burgers, hot dogs, or ribs on a Weber in their childhood years.</p>
       </div>
     <hr />
       <div className="smokers-gas">
