@@ -2,6 +2,8 @@ import * as React from "react"
 import { Link } from "gatsby"
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import weber from "../images/weber.jpg"
+import weberpro from "../images/weber-pro.jpg"
+import webersuper from "../images/weber-superpro.png"
 
 
 import Layout from "../components/layout"
@@ -39,18 +41,18 @@ const IndexPage = () => (
         <div class="next-tier">
           <p>Basic/Budget Option</p>
           <Card 
-            title="Weber Kettle"
+            title="Weber Kettle Premium"
             text="Kettle Smoker"
             url="https://www.weber.com/US/en/home/"
-            image={ weber } />
+            image={ weberpro } />
         </div>
         <div class="expensive">
           <p>Basic/Budget Option</p>
           <Card 
-            title="Weber Kettle"
+            title="Weber Kettle Performer"
             text="Kettle Smoker"
             url="https://www.weber.com/US/en/home/"
-            image={ weber } />
+            image={ webersuper } />
         </div>
       </div>
     <hr />
