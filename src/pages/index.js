@@ -4,6 +4,10 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import weber from "../images/weber.jpg"
 import weberpro from "../images/weber-pro.jpg"
 import webersuper from "../images/weber-superpro.png"
+import mbcheap from "../images/masterbuilt-cheap.jpg"
+import mbexp from "../images/masterbuilt-exp.jpg"
+import char from "../images/charbroil.png"
+import campsmoke from "../images/campchefsmokevault.jpg"
 
 
 import Layout from "../components/layout"
@@ -66,6 +70,11 @@ const IndexPage = () => (
         <div class="budget">
             <p>Basic/Budget Option</p>
             <Card 
+              title="Masterbuilt MB20050116 "
+              text="Propane $149"
+              url="https://www.amazon.com/Masterbuilt-MB20050116-Patio-2-Portable-Propane-Smoker/dp/B079K9VR46/ref=as_li_ss_tl?keywords=propane+smoker&qid=1565053092&s=gateway&sr=8-9&linkCode=ll1&tag=smbbre-20&linkId=c5668e86287ffe4f6ecda3d86cbf6907&language=en_US"
+              image={ mbcheap } />
+            <Card 
               title="Weber Kettle"
               text="Kettle Smoker $109"
               url="https://www.weber.com/US/en/home/"
@@ -73,6 +82,11 @@ const IndexPage = () => (
           </div>
           <div class="next-tier">
             <p>A little more expensive</p>
+            <Card 
+              title="Weber Kettle Premium"
+              text="Kettle Smoker $165"
+              url="https://www.weber.com/US/en/home/"
+              image={ weberpro } />
             <Card 
               title="Weber Kettle Premium"
               text="Kettle Smoker $165"
