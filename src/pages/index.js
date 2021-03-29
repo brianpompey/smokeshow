@@ -24,6 +24,11 @@ import traeger from "../images/traeger.png"
 import acorn from "../images/acorn.jpg"
 import biggreenegg from "../images/biggreen.jpg"
 import kamado from "../images/kamado.jpg"
+import bronco from "../images/bronco.png"
+import charvert from "../images/charvert.jpg"
+import gateway from "../images/gateway.jpg"
+import pitbarrel from "../images/pitbarrel.jpg"
+import websmokey from "../images/websmokey.jpg"
 
 
 import Layout from "../components/layout"
@@ -250,44 +255,40 @@ const IndexPage = () => (
           <div className="budget">
               <p>Basic/Budget Option</p>
               <Card 
-                title="Smoke Hollow 26142E "
-                text="Electric $149"
-                url="https://www.amazon.com/dp/B00NP3U6CG?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smhollow} />
+                title="Charbroil Bullet"
+                text="Drum $177"
+                url="https://www.amazon.com/Char-Broil-Bullet-Charcoal-Smoker-16/dp/B074Y83ZQ2/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theonlinegrill-20&linkId=56a052c1bb19cbcef8d5613a541d46fc&language=en_US"
+                image={ charvert } />
               <Card 
-                title="Smokehouse Products Big Chief Electric Smoker"
-                text="Electric $124"
-                url="https://www.amazon.com/dp/B000ZL182I?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ smokehouse} />
+                title="Bronco Drum Smoker"
+                text="Drum $250"
+                url="https://www.oklahomajoes.com/bronco-drum-smoker"
+                image={ bronco } />
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
               <Card 
-                title="Dyna-Glo DGU732SDE"
-                text="Electric $302"
-                url="https://www.amazon.com/dp/B07D5TH7ZP?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ elecdyna } />
+                title="Weber Smoker Mountain"
+                text="Drum $430"
+                url="https://www.amazon.com/Weber-731001-Mountain-22-Inch-Charcoal/dp/B001I8ZTJA/ref=as_li_ss_tl?s=lawn-garden&ie=UTF8&qid=1542565987&sr=1-4&keywords=weber+smokey+mountain&linkCode=sl1&tag=burningbrisket-20&linkId=129d140eda8db9b769e0e4e5a1de28fb&language=en_US"
+                image={ websmokey } />
               <Card 
-                title="Char-Broil 17202004"
-                text="Electric $260"
-                url="https://www.amazon.com/dp/B00SMRXYCE?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ charbroilelec } />
+                title="Pit Barrel Cooker"
+                text="Drtum $350"
+                url="https://pitbarrelcooker.com/products/18-5-classic-pit-barrel-cooker?sscid=31k5_u365p"
+                image={ pitbarrel} />
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
               <Card 
-                title="Masterbuilt MB20074719"
-                text="Electric $400"
-                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
-                image={ mbelecexp} />
-              <Card 
-                title="Smokin-It Model #2"
-                text="Electric $570"
-                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
-                image={ smokinit } />
+                title="Gateway Drum"
+                text="Drum $800"
+                url="https://www.bbqguys.com/gateway-drum-smokers/55-gallon-charcoal-bbq-smoker-matte-black-559fb?irclickid=2Gf2Y-R2IxyLUPnwUx0Mo372UkEXsN0Jo2i1Rk0&utm_source=impact&utm_medium=cpa&utm_species=affiliate&utm_partner=2006806&irgwc=1"
+                image={ gateway } />
             </div>
 
         </div>
+        <h2>Many people make their own</h2>
       </div>
     <hr />
       <div className="smokers-offset">
