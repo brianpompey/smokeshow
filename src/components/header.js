@@ -35,7 +35,7 @@ class Header extends React.Component {
         <div className="HeaderLine2">
           <Link to="https://www.instagram.com/chefpompei/">Chef Pompei</Link>
           <Link to="https://www.instagram.com/welcometothebbq_/">WTTB</Link>
-          <Link to="/blogs/">Blog Posts</Link>
+          <Link to="/paid/">Paid</Link>
         </div>
       </div>
     )
