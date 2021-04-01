@@ -1,4 +1,5 @@
 import React from 'react'
+import './SmokerInfo.css'
 
 
 const SmokerInfo = props => (
