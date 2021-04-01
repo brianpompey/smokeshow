@@ -1,8 +1,8 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import SmokerInfo from "../components/SmokerInfo"
+import SmokerInfo from "../../../components/SmokerInfo"
 
-import SEO from "../components/seo"
+import SEO from "../../../components/seo"
 
 const PaidPage = () => (
     <div>
