@@ -67,7 +67,7 @@ const IndexPage = () => (
             <Card 
               title="Weber Kettle"
               text="Kettle Smoker $109"
-              url="https://www.weber.com/US/en/home/"
+              url="/smokers/kettle/kettle1"
               image={ weber } />
           </div>
           <div className="next-tier">
