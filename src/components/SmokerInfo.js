@@ -1,17 +1,12 @@
 import React from 'react'
-import './layout'
-import Layout from './layout';
 
-const SmokerInfo = () => (
-    <Layout>
-        <div className="BlogGroup">
-            
-            <div className="BlogInfo">
-                <h1>COMING SOON!!!</h1>
-            </div>
-            
-        </div>
-    </Layout>
+
+const SmokerInfo = props => (
+    <div className="Info">
+        <img src={props.image} alt="smoker-pic"/>
+        <h3>{props.title}</h3>
+        <p>{props.text}</p>
+    </div>
 )
 
 export default SmokerInfo;
