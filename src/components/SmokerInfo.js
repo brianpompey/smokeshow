@@ -2,7 +2,7 @@ import React from 'react'
 import './layout'
 import Layout from './layout';
 
-const Paid = () => (
+const SmokerInfo = () => (
     <Layout>
         <div className="BlogGroup">
             
@@ -14,4 +14,4 @@ const Paid = () => (
     </Layout>
 )
 
-export default Paid;
+export default SmokerInfo;

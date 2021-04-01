@@ -1,16 +1,15 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import SmokerInfo from "../components/SmokerInfo"
 
-import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const PaidPage= () => (
-    <Layout>
+const PaidPage = () => (
+    <div>
         <SEO title="Page two" />
-        <h1>Hi from the second page</h1>
-        <p>Welcome to page 2</p>
+        <SmokerInfo />
         <Link to="/">Go back to the homepage</Link>
-    </Layout> 
+    </div> 
 )
 
 export default PaidPage;
