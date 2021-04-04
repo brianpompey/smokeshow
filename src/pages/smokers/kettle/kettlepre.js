@@ -11,6 +11,7 @@ const WeberPre = () => (
         <SmokerInfo 
             title="Weber Kettle Premium"
             text="A little better"
+            price="165"
         />
         <Link to="/">Go back to the homepage</Link>
     </Layout> 

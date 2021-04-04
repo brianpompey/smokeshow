@@ -7,6 +7,7 @@ const SmokerInfo = props => (
         <img src={props.image} alt="smoker-pic"/>
         <h3>{props.title}</h3>
         <p>{props.text}</p>
+        <p>{props.price}</p>
     </div>
 )
 
