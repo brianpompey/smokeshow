@@ -140,12 +140,12 @@ const IndexPage = () => (
               <Card 
                 title="Smoke Hollow 26142E "
                 text="Electric $149"
-                url="https://www.amazon.com/dp/B00NP3U6CG?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                url="/smokers/electric/1"
                 image={ smhollow} />
               <Card 
                 title="Smokehouse Products Big Chief Electric Smoker"
                 text="Electric $124"
-                url="https://www.amazon.com/dp/B000ZL182I?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                url="/smokers/electric/2"
                 image={ smokehouse} />
             </div>
             <div className="next-tier">
@@ -153,12 +153,12 @@ const IndexPage = () => (
               <Card 
                 title="Dyna-Glo DGU732SDE"
                 text="Electric $302"
-                url="https://www.amazon.com/dp/B07D5TH7ZP?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
+                url="/smokers/electric/3"
                 image={ elecdyna } />
               <Card 
                 title="Char-Broil 17202004"
                 text="Electric $260"
-                url="https://www.amazon.com/dp/B00SMRXYCE?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                url="/smokers/electric/4"
                 image={ charbroilelec } />
             </div>
             <div className="expensive">
@@ -166,12 +166,12 @@ const IndexPage = () => (
               <Card 
                 title="Masterbuilt MB20074719"
                 text="Electric $400"
-                url="https://www.amazon.com/dp/B07NQPLB19?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4159127%7Cn305356883cf44ea79e8731d2a3e20c2f17"
+                url="/smokers/electric/5"
                 image={ mbelecexp} />
               <Card 
                 title="Smokin-It Model #2"
                 text="Electric $570"
-                url="https://www.amazon.com/dp/B003KKLDX0?linkCode=ogi&tag=goodhousekeeping_auto-append-20&ascsubtag=[artid|10055.g.32052279[src|[ch|[lt|"
+                url="/smokers/electric/6"
                 image={ smokinit } />
             </div>
 
@@ -186,12 +186,12 @@ const IndexPage = () => (
               <Card 
                 title="PIT BOSS PB440 "
                 text="Pellet $349"
-                url="https://pitboss-grills.com/wood-pellet/440-deluxe-wood-pellet-grill-mahogany"
+                url="/smokers/pellet/1"
                 image={ pitboss } />
               <Card 
                 title="Green Mountain Davy Crockett Sense"
                 text="Pellet $299"
-                url="https://www.amazon.com/Green-Mountain-Grills-Crockett-Controlled/dp/B078RXH95C/?tag=aboutcom02thespruceeats-20&ascsubtag=4159120%7Cn19db9c24a7864577b8e4e2e02d14f24b18"
+                url="/smokers/pellet/2"
                 image={ green } />
             </div>
             <div className="next-tier">
@@ -199,12 +199,12 @@ const IndexPage = () => (
               <Card 
                 title="Camp Chef SmokePro DLX "
                 text="Pellet 484"
-                url="https://www.amazon.com/Camp-Chef-PG24DLX-Controls-Stainless/dp/B00DVELGT6/?tag=aboutcom02thespruceeats-20&ascsubtag=4159120%7Cn19db9c24a7864577b8e4e2e02d14f24b18"
+                url="/smokers/pellet/3"
                 image={ campcheap } />
               <Card 
                 title="Z GRILLS-700D"
                 text="Pellet $569"
-                url="https://zgrills.com/products/zpg-700d-pellet-grill?sscid=31k5_u282e"
+                url="/smokers/pellet/4"
                 image={ zgrill } />
             </div>
             <div className="expensive">
@@ -212,12 +212,12 @@ const IndexPage = () => (
               <Card 
                 title="TRAEGER TIMBERLINE 850 "
                 text="Pellet $1800"
-                url="https://www.traegergrills.com/pellet-grills/timberline/850"
+                url="/smokers/pellet/5"
                 image={ traeger } />
               <Card 
                 title="Camp Chef WOODWIND WIFI 36"
                 text="Pellet $1200"
-                url="https://www.campchef.com/wood-pellet-grills-and-accessories/all-pellet-grills/woodwind-wifi-36-with-sidekick.html"
+                url="/smokers/pellet/6"
                 image={ campchef } />
             </div>
 
@@ -232,7 +232,7 @@ const IndexPage = () => (
               <Card 
                 title="Char-Griller E16620 Akorn "
                 text="Kamado $300"
-                url="https://www.amazon.com/Char-Griller-16620-Kamado-Charcoal-Barbecue/dp/B00GJEPTJS?tag=cnet-buy-button-20&ascsubtag=___COM_CLICK_ID___%7C___VIEW_GUID___%7Cdtp"
+                url="/smokers/kamado/1"
                 image={ acorn } />
             </div>
             <div className="next-tier">
@@ -240,7 +240,7 @@ const IndexPage = () => (
               <Card 
                 title="Big Green Egg"
                 text="Kamado $900"
-                url="https://biggreenegg.com/product/large-big-green-egg/"
+                url="/smokers/kamado/2"
                 image={ biggreenegg } />
             </div>
             <div className="expensive">
@@ -248,7 +248,7 @@ const IndexPage = () => (
               <Card 
                 title="Kamado Joe"
                 text="Kamado $1600"
-                url="https://www.amazon.com/Kamado-Joe-KJ23RHCI-Classic-Charcoal/dp/B07QHKYS6G?tag=cnet-buy-button-20&ascsubtag=___COM_CLICK_ID___%7C___VIEW_GUID___%7Cdtp"
+                url="/smokers/kamado/3"
                 image={ kamado } />
             </div>
 
@@ -263,12 +263,12 @@ const IndexPage = () => (
               <Card 
                 title="Charbroil Bullet"
                 text="Drum $177"
-                url="https://www.amazon.com/Char-Broil-Bullet-Charcoal-Smoker-16/dp/B074Y83ZQ2/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theonlinegrill-20&linkId=56a052c1bb19cbcef8d5613a541d46fc&language=en_US"
+                url="/smokers/drum/1"
                 image={ charvert } />
               <Card 
                 title="Bronco Drum Smoker"
                 text="Drum $250"
-                url="https://www.oklahomajoes.com/bronco-drum-smoker"
+                url="/smokers/drum/2"
                 image={ bronco } />
             </div>
             <div className="next-tier">
@@ -276,12 +276,12 @@ const IndexPage = () => (
               <Card 
                 title="Weber Smoker Mountain"
                 text="Drum $430"
-                url="https://www.amazon.com/Weber-731001-Mountain-22-Inch-Charcoal/dp/B001I8ZTJA/ref=as_li_ss_tl?s=lawn-garden&ie=UTF8&qid=1542565987&sr=1-4&keywords=weber+smokey+mountain&linkCode=sl1&tag=burningbrisket-20&linkId=129d140eda8db9b769e0e4e5a1de28fb&language=en_US"
+                url="/smokers/drum/3"
                 image={ websmokey } />
               <Card 
                 title="Pit Barrel Cooker"
                 text="Drum $350"
-                url="https://pitbarrelcooker.com/products/18-5-classic-pit-barrel-cooker?sscid=31k5_u365p"
+                url="/smokers/drum/4"
                 image={ pitbarrel} />
             </div>
             <div className="expensive">
@@ -289,7 +289,7 @@ const IndexPage = () => (
               <Card 
                 title="Gateway Drum"
                 text="Drum $800"
-                url="https://www.bbqguys.com/gateway-drum-smokers/55-gallon-charcoal-bbq-smoker-matte-black-559fb?irclickid=2Gf2Y-R2IxyLUPnwUx0Mo372UkEXsN0Jo2i1Rk0&utm_source=impact&utm_medium=cpa&utm_species=affiliate&utm_partner=2006806&irgwc=1"
+                url="/smokers/drum/5"
                 image={ gateway } />
             </div>
 
@@ -305,12 +305,12 @@ const IndexPage = () => (
               <Card 
                 title="Char-Griller E1224 "
                 text="Offset $287"
-                url="https://www.amazon.com/dp/B0009NU5YY?tag=smbbre-20&linkCode=ogi&th=1&psc=1"
+                url="/smokers/offset/1"
                 image={ charoff } />
               <Card 
                 title="Highland Offset"
                 text="Offset $300"
-                url="https://www.oklahomajoes.com/highland-offset-smoker"
+                url="/smokers/offset/2"
                 image={ highland } />
             </div>
             <div className="next-tier">
@@ -318,7 +318,7 @@ const IndexPage = () => (
               <Card 
                 title="Bandera"
                 text="Offset $450"
-                url="https://www.oklahomajoes.com/bandera-vertical-offset-smoker"
+                url="/smokers/offset/3"
                 image={ bandera } />
             </div>
             <div className="expensive">
@@ -326,7 +326,7 @@ const IndexPage = () => (
               <Card 
                 title="Yoder Wichita"
                 text="Offset $2400"
-                url="https://www.yodersmokers.com/backyard/the-loaded-wichita/"
+                url="/smokers/offset/4"
                 image={ wichita} />
             </div>
 
@@ -339,12 +339,12 @@ const IndexPage = () => (
               <Card 
                 title="MasterBuilt 560"
                 text="Gravity $500"
-                url="https://www.masterbuilt.com/collections/smokers/products/gravity-series-560-digital-charcoal-grill-smoker"
+                url="/smokers/gravity/1"
                 image={ mb560 } />
               <Card 
                 title="MasterBuilt 1050"
                 text="Gravity $800"
-                url="https://www.masterbuilt.com/collections/smokers/products/gravity-series-1050-digital-charcoal-grill-smoker"
+                url="/smokers/gravity/2"
                 image={ mb1050 } />
         </div>
       </div>
