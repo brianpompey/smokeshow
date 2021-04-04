@@ -13,6 +13,7 @@ const Weber1 = () => (
             title="Weber Kettle"
             text="The best starter grill"
             image={ weber }
+            price="109"
         />
         <Link to="/">Go back to the homepage</Link>
     </Layout> 
