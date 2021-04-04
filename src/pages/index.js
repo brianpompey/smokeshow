@@ -99,12 +99,12 @@ const IndexPage = () => (
             <Card 
               title="Masterbuilt MB20050116 "
               text="Propane $149"
-              url="https://www.amazon.com/Masterbuilt-MB20050116-Patio-2-Portable-Propane-Smoker/dp/B079K9VR46/ref=as_li_ss_tl?keywords=propane+smoker&qid=1565053092&s=gateway&sr=8-9&linkCode=ll1&tag=smbbre-20&linkId=c5668e86287ffe4f6ecda3d86cbf6907&language=en_US"
+              url="/smokers/propane/1"
               image={ mbcheap } />
             <Card 
               title="Charbroil 595"
               text="Propane $189"
-              url="https://www.charbroil.com/vertical-gas-smoker-12701705"
+              url="/smokers/propane/2"
               image={ char } />
           </div>
           <div className="next-tier">
@@ -112,12 +112,12 @@ const IndexPage = () => (
             <Card 
               title="CampChef SmokeVault"
               text="Propane $229"
-              url="https://www.homedepot.com/p/Camp-Chef-Smoke-Vault-18-in-Propane-Gas-Smoker-SMV18S/203591382?irgwc=1&cm_mmc=afl-ir-10078-456723-thespruceeats.com&clickid=2Gf2Y-R2IxyLUPnwUx0Mo372UkEXsVQBo2i1Rk0"
+              url="/smokers/propane/3"
               image={ campsmoke } />
             <Card 
               title="Dyna-Glo DGY784BDP"
               text="Propane $200"
-              url="https://www.amazon.com/Dyna-Glo-DGY784BDP-Vertical-Gas-Smoker/dp/B007YX9KRU/ref=as_li_ss_tl?keywords=gas+smoker&qid=1561191480&s=gateway&sr=8-6&linkCode=ll1&tag=smbbre-20&linkId=4fa55067152bbf7d70fba3d48ec6af61&language=en_US"
+              url="/smokers/propane/4"
               image={ dyna } />
           </div>
           <div className="expensive">
@@ -125,7 +125,7 @@ const IndexPage = () => (
             <Card 
               title="Masterbuilt MB20051316"
               text="Propane $400"
-              url="https://www.amazon.com/dp/B07NQPLB1Q?tag=aboutcom02thespruceeats-20&linkCode=ogi&th=1&psc=1&ascsubtag=4160510%7Cna8f936af0c614da883410cbda18e20a916"
+              url="/smokers/propane/5"
               image={ mbexp } />
           </div>
 
