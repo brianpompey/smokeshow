@@ -280,7 +280,7 @@ const IndexPage = () => (
                 image={ websmokey } />
               <Card 
                 title="Pit Barrel Cooker"
-                text="Drtum $350"
+                text="Drum $350"
                 url="https://pitbarrelcooker.com/products/18-5-classic-pit-barrel-cooker?sscid=31k5_u365p"
                 image={ pitbarrel} />
             </div>
