@@ -63,7 +63,7 @@ const IndexPage = () => (
 
         <div className="smoker-group">
           <div className="budget">
-            <p>Basic/Budget Option</p>
+            <p>Basic/Budget Option</p> 
             <Card 
               title="Weber Kettle"
               text="Kettle Smoker $109"
