@@ -73,7 +73,7 @@ const IndexPage = () => (
               class="snipcart-add-item"
               data-item-id="weber-kettle-original"
               data-item-price="109.99"
-              data-item-url="/"
+              data-item-url="/smokers/kettle/kettle1"
               data-item-name="Weber Kettle Original"
             >
               Add to Cart
