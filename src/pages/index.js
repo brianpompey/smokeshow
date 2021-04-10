@@ -75,6 +75,7 @@ const IndexPage = () => (
               data-item-price="109.99"
               data-item-url="/smokers/kettle/kettle1"
               data-item-name="Weber Kettle Original"
+              data-item-image={ weber }
             >
               Add to Cart
             </button>
@@ -92,6 +93,7 @@ const IndexPage = () => (
               data-item-price="165.99"
               data-item-url="/smokers/kettle/kettlepre"
               data-item-name="Weber Kettle Premium"
+              data-item-image={ weberpro }
             >
               Add to Cart
             </button>
