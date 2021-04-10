@@ -86,6 +86,15 @@ const IndexPage = () => (
               text="Kettle Smoker $165"
               url="/smokers/kettle/kettlepre"
               image={ weberpro } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="weber-kettle-premium"
+              data-item-price="165.99"
+              data-item-url="/smokers/kettle/kettlepre"
+              data-item-name="Weber Kettle Premium"
+            >
+              Add to Cart
+            </button>
           </div>
           <div className="expensive">
             <p>Peak Tier</p>
@@ -94,6 +103,17 @@ const IndexPage = () => (
               text="Kettle Smoker $439"
               url="/smokers/kettle/kettlepro"
               image={ webersuper } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="weber-kettle-performer"
+              data-item-price="439.99"
+              data-item-url="/smokers/kettle/kettlepro"
+              data-item-name="Weber Kettle Performer"
+              data-item-description="Fancy Weber Kettle"
+              data-item-image={ webersuper }
+            >
+              Add to Cart
+            </button>
           </div>
         </div>
         <p>The Weber is a classic addition to any backyard. Most people can remember seeing their dad or uncle flipping burgers, hot dogs, or ribs on a Weber in their childhood years. The most basic level is pretty affordable at about $100 is it's a great starter grill for anyone to get started at the art of building/managing fires. If you have more funds to start out with or are just in love with the kettle style, feel free to upgrade to one of the more premium options which have more advanced features such as one-touch cleaning and side tables.</p>
