@@ -69,6 +69,15 @@ const IndexPage = () => (
               text="Kettle Smoker $109"
               url="/smokers/kettle/kettle1"
               image={ weber } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="weber-kettle-original"
+              data-item-price="109.99"
+              data-item-url="/"
+              data-item-name="Weber Kettle Original"
+            >
+              Add to Cart
+            </button>
           </div>
           <div className="next-tier">
             <p>A little more expensive</p>

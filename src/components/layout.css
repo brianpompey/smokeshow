@@ -36,4 +36,8 @@ body {
   justify-items: center;
 }
 
+button {
+  cursor: pointer;
+}
+
 
