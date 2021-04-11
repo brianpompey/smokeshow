@@ -169,12 +169,12 @@ const IndexPage = () => (
               image={ campsmoke } />
             <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="campchef-smokevault"
+              data-item-price="229.99"
+              data-item-url="/smokers/propane/3"
+              data-item-name="CampChef SmokeVault"
+              data-item-description="CampChef SmokeVault Propane Smoker"
+              data-item-image={ campsmoke }
             >
               Add to Cart
             </button>
@@ -185,12 +185,12 @@ const IndexPage = () => (
               image={ dyna } />
             <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="dynaglo-propane"
+              data-item-price="199.99"
+              data-item-url="/smokers/propane/4"
+              data-item-name="Dyna-Glo DGY784BDP"
+              data-item-description="Dyna-Glo DGY784BDP Propane Smoker"
+              data-item-image={ dyna }
             >
               Add to Cart
             </button>
@@ -204,12 +204,12 @@ const IndexPage = () => (
               image={ mbexp } />
             <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="masterbuilt-mb20051315"
+              data-item-price="399.99"
+              data-item-url="/smokers/propane/5"
+              data-item-name="Masterbuilt MB20051316"
+              data-item-description="Bigger Masterbuilt Propane Smoker"
+              data-item-image={ mbexp }
             >
               Add to Cart
             </button>
