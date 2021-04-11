@@ -132,11 +132,33 @@ const IndexPage = () => (
               text="Propane $149"
               url="/smokers/propane/1"
               image={ mbcheap } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="masterbuilt-budget"
+              data-item-price="149.99"
+              data-item-url="/smokers/propane/1"
+              data-item-name="Masterbuilt MB20050116"
+              data-item-description="Budget Masterbuilt Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             <Card 
               title="Charbroil 595"
               text="Propane $189"
               url="/smokers/propane/2"
               image={ char } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
           </div>
           <div className="next-tier">
             <p>A little more expensive</p>
