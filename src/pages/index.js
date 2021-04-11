@@ -230,12 +230,12 @@ const IndexPage = () => (
                 image={ smhollow} />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="smoke-hollow-electric"
+              data-item-price="149.99"
+              data-item-url="/smokers/electric/1"
+              data-item-name="Smoke Hollow 26142E"
+              data-item-description="Smoke Hollow Electric Smoker"
+              data-item-image={ smhollow }
             >
               Add to Cart
             </button>
@@ -246,12 +246,12 @@ const IndexPage = () => (
                 image={ smokehouse} />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="smokehouse-big-chief"
+              data-item-price="124.99"
+              data-item-url="/smokers/electric/2"
+              data-item-name="Smokehouse Big Chief"
+              data-item-description="Smokehouse Products Big Chief Electric Smoker"
+              data-item-image={ smokehouse }
             >
               Add to Cart
             </button>
@@ -265,12 +265,12 @@ const IndexPage = () => (
                 image={ elecdyna } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="dyna-glo-electric"
+              data-item-price="302.99"
+              data-item-url="/smokers/electric/3"
+              data-item-name="Dyna-Glo DGU732SDE"
+              data-item-description="Dyna-Glo Electric Smoker"
+              data-item-image={ elecdyna }
             >
               Add to Cart
             </button>
@@ -281,12 +281,12 @@ const IndexPage = () => (
                 image={ charbroilelec } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="charbroil-17202004"
+              data-item-price="259.99"
+              data-item-url="/smokers/electric/4"
+              data-item-name="Charbroil 17202004"
+              data-item-description="Charbroil Electric Smoker"
+              data-item-image={ charbroilelec }
             >
               Add to Cart
             </button>
@@ -300,12 +300,12 @@ const IndexPage = () => (
                 image={ mbelecexp} />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="masterbuilt-mb2007-electric"
+              data-item-price="399.99"
+              data-item-url="/smokers/electric/5"
+              data-item-name="Masterbuilt MB20074719"
+              data-item-description="Masterbuilt Electric Smoker"
+              data-item-image={ mbelecexp }
             >
               Add to Cart
             </button>
@@ -316,12 +316,12 @@ const IndexPage = () => (
                 image={ smokinit } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="smokin-it-2"
+              data-item-price="569.99"
+              data-item-url="/smokers/electric/6"
+              data-item-name="Smokin-It"
+              data-item-description="Smokin-It Model #2"
+              data-item-image={ smokinit }
             >
               Add to Cart
             </button>
