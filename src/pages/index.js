@@ -342,12 +342,12 @@ const IndexPage = () => (
                 image={ pitboss } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="pit-boss-pb440"
+              data-item-price="349.99"
+              data-item-url="/smokers/pellet/1"
+              data-item-name="PIT BOSS"
+              data-item-description="PIT BOSS PB440"
+              data-item-image={ pitboss }
             >
               Add to Cart
             </button>
@@ -358,12 +358,12 @@ const IndexPage = () => (
                 image={ green } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="green-mountain-crockett"
+              data-item-price="299.99"
+              data-item-url="/smokers/pellet/2"
+              data-item-name="Green Mountain Davy Crockett Sense"
+              data-item-description="Green Mountain Davy Crockett Sense"
+              data-item-image={ green }
             >
               Add to Cart
             </button>
@@ -377,12 +377,12 @@ const IndexPage = () => (
                 image={ campcheap } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="campchef-smokepro-dlx"
+              data-item-price="484.99"
+              data-item-url="/smokers/pellet/3"
+              data-item-name="Camp Chef SmokePro DLX "
+              data-item-description="Camp Chef SmokePro DLX "
+              data-item-image={ campcheap }
             >
               Add to Cart
             </button>
@@ -393,12 +393,12 @@ const IndexPage = () => (
                 image={ zgrill } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="z-grills-700"
+              data-item-price="569.99"
+              data-item-url="/smokers/pellet/4"
+              data-item-name="Z GRILLS-700D"
+              data-item-description="Z GRILLS-700D"
+              data-item-image={ zgrill }
             >
               Add to Cart
             </button>
@@ -412,12 +412,12 @@ const IndexPage = () => (
                 image={ traeger } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="traeger-timberline-850"
+              data-item-price="1800.99"
+              data-item-url="/smokers/pellet/5"
+              data-item-name="TRAEGER TIMBERLINE 850"
+              data-item-description="TRAEGER TIMBERLINE 850"
+              data-item-image={ traeger }
             >
               Add to Cart
             </button>
@@ -428,12 +428,12 @@ const IndexPage = () => (
                 image={ campchef } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="campchef-woodwind-36"
+              data-item-price="1200.99"
+              data-item-url="/smokers/pellet/6"
+              data-item-name="Camp Chef WOODWIND WIFI 36"
+              data-item-description="Camp Chef WOODWIND WIFI 36"
+              data-item-image={ campchef }
             >
               Add to Cart
             </button>
