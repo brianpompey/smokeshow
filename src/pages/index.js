@@ -615,12 +615,12 @@ const IndexPage = () => (
                 image={ charoff } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="chargriller-e1224"
+              data-item-price="287.99"
+              data-item-url="/smokers/offset/1"
+              data-item-name="Char-Griller E1224"
+              data-item-description="Budget Chargriller Offset Smoker"
+              data-item-image={ charoff }
             >
               Add to Cart
             </button>
@@ -631,12 +631,12 @@ const IndexPage = () => (
                 image={ highland } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="oklahoma-highland"
+              data-item-price="299.99"
+              data-item-url="/smokers/offset/2"
+              data-item-name="Highland Offset"
+              data-item-description="Basic Offset from Oklahoma Joe"
+              data-item-image={ highland }
             >
               Add to Cart
             </button>
@@ -650,12 +650,12 @@ const IndexPage = () => (
                 image={ bandera } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="oklahoma-bandera"
+              data-item-price="449.99"
+              data-item-url="/smokers/offset/3"
+              data-item-name="Bandera"
+              data-item-description="Vertical Offset from Oklahoma Joe"
+              data-item-image={ bandera }
             >
               Add to Cart
             </button>
@@ -669,12 +669,12 @@ const IndexPage = () => (
                 image={ wichita} />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="yoder-wichita"
+              data-item-price="2399.99"
+              data-item-url="/smokers/offset/4"
+              data-item-name="Yoder Wichita"
+              data-item-description="Popular Offset from Yoder Smokers!"
+              data-item-image={ wichita }
             >
               Add to Cart
             </button>
