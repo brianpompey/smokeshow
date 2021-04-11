@@ -36,7 +36,7 @@ body {
   justify-items: center;
 }
 
-button {
+.smokers button {
   cursor: pointer;
   background-color: crimson;
   color: white;

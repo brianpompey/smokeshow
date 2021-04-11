@@ -36,6 +36,7 @@ class Header extends React.Component {
           <Link to="https://www.instagram.com/chefpompei/">Chef Pompei</Link>
           <Link to="https://www.instagram.com/welcometothebbq_/">WTTB</Link>
           <Link to="/paid/">Paid</Link>
+          <button className="snipcart-checkout">View Cart</button>
         </div>
       </div>
     )
