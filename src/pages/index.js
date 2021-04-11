@@ -454,12 +454,12 @@ const IndexPage = () => (
                 image={ acorn } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="acorn-chargriller"
+              data-item-price="299.99"
+              data-item-url="/smokers/kamado/1"
+              data-item-name="Akorn"
+              data-item-description="Char-Griller E16620 Akorn"
+              data-item-image={ acorn }
             >
               Add to Cart
             </button>
@@ -473,12 +473,12 @@ const IndexPage = () => (
                 image={ biggreenegg } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="big-green-egg"
+              data-item-price="899.99"
+              data-item-url="/smokers/kamado/2"
+              data-item-name="Big Green Egg"
+              data-item-description="Big Green Egg"
+              data-item-image={ biggreenegg }
             >
               Add to Cart
             </button>
@@ -492,12 +492,12 @@ const IndexPage = () => (
                 image={ kamado } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="kamado-joe"
+              data-item-price="1599.99"
+              data-item-url="/smokers/kamado/3"
+              data-item-name="Kamado Joe"
+              data-item-description="Kamado Joe"
+              data-item-image={ kamado }
             >
               Add to Cart
             </button>
