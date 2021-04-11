@@ -167,11 +167,33 @@ const IndexPage = () => (
               text="Propane $229"
               url="/smokers/propane/3"
               image={ campsmoke } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             <Card 
               title="Dyna-Glo DGY784BDP"
               text="Propane $200"
               url="/smokers/propane/4"
               image={ dyna } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
           </div>
           <div className="expensive">
             <p>Peak Tier</p>
@@ -180,6 +202,17 @@ const IndexPage = () => (
               text="Propane $400"
               url="/smokers/propane/5"
               image={ mbexp } />
+            <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
           </div>
 
         </div>
@@ -195,11 +228,33 @@ const IndexPage = () => (
                 text="Electric $149"
                 url="/smokers/electric/1"
                 image={ smhollow} />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Smokehouse Products Big Chief Electric Smoker"
                 text="Electric $124"
                 url="/smokers/electric/2"
                 image={ smokehouse} />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
@@ -208,11 +263,33 @@ const IndexPage = () => (
                 text="Electric $302"
                 url="/smokers/electric/3"
                 image={ elecdyna } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Char-Broil 17202004"
                 text="Electric $260"
                 url="/smokers/electric/4"
                 image={ charbroilelec } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
@@ -221,11 +298,33 @@ const IndexPage = () => (
                 text="Electric $400"
                 url="/smokers/electric/5"
                 image={ mbelecexp} />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Smokin-It Model #2"
                 text="Electric $570"
                 url="/smokers/electric/6"
                 image={ smokinit } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
 
         </div>
@@ -241,11 +340,33 @@ const IndexPage = () => (
                 text="Pellet $349"
                 url="/smokers/pellet/1"
                 image={ pitboss } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Green Mountain Davy Crockett Sense"
                 text="Pellet $299"
                 url="/smokers/pellet/2"
                 image={ green } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
@@ -254,11 +375,33 @@ const IndexPage = () => (
                 text="Pellet 484"
                 url="/smokers/pellet/3"
                 image={ campcheap } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Z GRILLS-700D"
                 text="Pellet $569"
                 url="/smokers/pellet/4"
                 image={ zgrill } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
@@ -267,11 +410,33 @@ const IndexPage = () => (
                 text="Pellet $1800"
                 url="/smokers/pellet/5"
                 image={ traeger } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Camp Chef WOODWIND WIFI 36"
                 text="Pellet $1200"
                 url="/smokers/pellet/6"
                 image={ campchef } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
 
         </div>
@@ -287,6 +452,17 @@ const IndexPage = () => (
                 text="Kamado $300"
                 url="/smokers/kamado/1"
                 image={ acorn } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
@@ -295,6 +471,17 @@ const IndexPage = () => (
                 text="Kamado $900"
                 url="/smokers/kamado/2"
                 image={ biggreenegg } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
@@ -303,6 +490,17 @@ const IndexPage = () => (
                 text="Kamado $1600"
                 url="/smokers/kamado/3"
                 image={ kamado } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
 
         </div>
@@ -318,11 +516,33 @@ const IndexPage = () => (
                 text="Drum $177"
                 url="/smokers/drum/1"
                 image={ charvert } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Bronco Drum Smoker"
                 text="Drum $250"
                 url="/smokers/drum/2"
                 image={ bronco } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
@@ -331,11 +551,33 @@ const IndexPage = () => (
                 text="Drum $430"
                 url="/smokers/drum/3"
                 image={ websmokey } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Pit Barrel Cooker"
                 text="Drum $350"
                 url="/smokers/drum/4"
                 image={ pitbarrel} />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
@@ -344,6 +586,17 @@ const IndexPage = () => (
                 text="Drum $800"
                 url="/smokers/drum/5"
                 image={ gateway } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
 
         </div>
@@ -360,11 +613,33 @@ const IndexPage = () => (
                 text="Offset $287"
                 url="/smokers/offset/1"
                 image={ charoff } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="Highland Offset"
                 text="Offset $300"
                 url="/smokers/offset/2"
                 image={ highland } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="next-tier">
               <p>A little more expensive</p>
@@ -373,6 +648,17 @@ const IndexPage = () => (
                 text="Offset $450"
                 url="/smokers/offset/3"
                 image={ bandera } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
             <div className="expensive">
               <p>Peak Tier</p>
@@ -381,6 +667,17 @@ const IndexPage = () => (
                 text="Offset $2400"
                 url="/smokers/offset/4"
                 image={ wichita} />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
             </div>
 
         </div>
@@ -394,11 +691,33 @@ const IndexPage = () => (
                 text="Gravity $500"
                 url="/smokers/gravity/1"
                 image={ mb560 } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
               <Card 
                 title="MasterBuilt 1050"
                 text="Gravity $800"
                 url="/smokers/gravity/2"
                 image={ mb1050 } />
+              <button
+              class="snipcart-add-item"
+              data-item-id="charbroil-595"
+              data-item-price="189.99"
+              data-item-url="/smokers/propane/2"
+              data-item-name="Charbroil 595"
+              data-item-description="Budget Charbroil Vertical Propane Smoker"
+              data-item-image={ mbcheap }
+            >
+              Add to Cart
+            </button>
         </div>
       </div>
     <hr />
