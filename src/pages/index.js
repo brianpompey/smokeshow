@@ -518,12 +518,12 @@ const IndexPage = () => (
                 image={ charvert } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="charbroil-bullet"
+              data-item-price="177.99"
+              data-item-url="/smokers/drum/1"
+              data-item-name="Charbroil Bullet"
+              data-item-description="Charbroil Vertical Smoker"
+              data-item-image={ charvert }
             >
               Add to Cart
             </button>
@@ -534,12 +534,12 @@ const IndexPage = () => (
                 image={ bronco } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="bronco-drum"
+              data-item-price="249.99"
+              data-item-url="/smokers/drum/2"
+              data-item-name="Bronco Drum Smoker"
+              data-item-description="Oklahoma Joe Drum Smoker"
+              data-item-image={ bronco }
             >
               Add to Cart
             </button>
@@ -553,12 +553,12 @@ const IndexPage = () => (
                 image={ websmokey } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="weber-smokey-mountain"
+              data-item-price="429.99"
+              data-item-url="/smokers/drum/3"
+              data-item-name="Weber Smoker Mountain"
+              data-item-description="Weber's contribution to the Vertical smoker market"
+              data-item-image={ websmokey }
             >
               Add to Cart
             </button>
@@ -569,12 +569,12 @@ const IndexPage = () => (
                 image={ pitbarrel} />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="pit-barrel-smoker"
+              data-item-price="349.99"
+              data-item-url="/smokers/drum/4"
+              data-item-name="Pit Barrel Cooker"
+              data-item-description="Popular Pit Barrel Drum Smoker"
+              data-item-image={ pitbarrel }
             >
               Add to Cart
             </button>
@@ -588,12 +588,12 @@ const IndexPage = () => (
                 image={ gateway } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="gateway-drum"
+              data-item-price="799.99"
+              data-item-url="/smokers/drum/5"
+              data-item-name="Gateway Drum"
+              data-item-description="Gateway Drum Smoker"
+              data-item-image={ gateway }
             >
               Add to Cart
             </button>
