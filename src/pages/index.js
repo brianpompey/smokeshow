@@ -693,12 +693,12 @@ const IndexPage = () => (
                 image={ mb560 } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="masterbuilt-560"
+              data-item-price="499.99"
+              data-item-url="/smokers/gravity/1"
+              data-item-name="MasterBuilt 560"
+              data-item-description="Entry level gravity fed by Masterbuilt"
+              data-item-image={ mb560 }
             >
               Add to Cart
             </button>
@@ -709,12 +709,12 @@ const IndexPage = () => (
                 image={ mb1050 } />
               <button
               class="snipcart-add-item"
-              data-item-id="charbroil-595"
-              data-item-price="189.99"
-              data-item-url="/smokers/propane/2"
-              data-item-name="Charbroil 595"
-              data-item-description="Budget Charbroil Vertical Propane Smoker"
-              data-item-image={ mbcheap }
+              data-item-id="masterbuilt-1050"
+              data-item-price="799.99"
+              data-item-url="/smokers/gravity/2"
+              data-item-name="MasterBuilt 1050"
+              data-item-description="Higher Capacity Gravity Fed by MasterBuilt"
+              data-item-image={ mb1050 }
             >
               Add to Cart
             </button>
