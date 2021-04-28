@@ -161,9 +161,9 @@ const IndexPage = () => (
             </button>
           </div>
           <div className="next-tier">
-            <p>A little more expensive</p>
+            <p>A little more  expensive</p>
             <Card 
-              title="CampChef SmokeVault"
+              title="CampChef  SmokeVault"
               text="Propane $229"
               url="/smokers/propane/3"
               image={ campsmoke } />
