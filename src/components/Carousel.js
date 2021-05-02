@@ -12,7 +12,7 @@ import car11 from "../images/carousel11.JPG"
 import car12 from "../images/carousel12.JPG"
 import car13 from "../images/carousel13.JPG"
 import car14 from "../images/carousel14.JPG"
-import patty from "../images/PattyMahomes.jpg"
+
 import { Carousel } from "react-responsive-carousel";
 
 
