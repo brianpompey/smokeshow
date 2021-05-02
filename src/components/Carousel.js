@@ -6,11 +6,11 @@ import car4 from "../images/carousel4.JPG"
 import car5 from "../images/carousel5.JPG"
 
 import car8 from "../images/carousel8.JPG"
-import car9 from "../images/carousel9.JPG"
-import car10 from "../images/carousel10.JPG"
-import car11 from "../images/carousel11.JPG"
-import car12 from "../images/carousel12.JPG"
-import car13 from "../images/carousel13.JPG"
+import car9 from "../images/carousel9.jpg"
+import car10 from "../images/carousel10.jpg"
+import car11 from "../images/carousel11.jpg"
+import car12 from "../images/carousel12.jpg"
+import car13 from "../images/carousel13.jpg"
 import car14 from "../images/carousel14.jpg"
 
 import { Carousel } from "react-responsive-carousel";
