@@ -1,11 +1,11 @@
 import React from 'react'
-import car1 from "../images/carousel1.JPG"
-import car2 from "../images/carousel2.JPG"
-import car3 from "../images/carousel3.JPG"
-import car4 from "../images/carousel4.JPG"
-import car5 from "../images/carousel5.JPG"
+import car1 from "../images/carousel1.jpg"
+import car2 from "../images/carousel2.jpg"
+import car3 from "../images/carousel3.jpg"
+import car4 from "../images/carousel4.jpg"
+import car5 from "../images/carousel5.jpg"
 
-import car8 from "../images/carousel8.JPG"
+import car8 from "../images/carousel8.jpg"
 import car9 from "../images/carousel9.jpg"
 import car10 from "../images/carousel10.jpg"
 import car11 from "../images/carousel11.jpg"
