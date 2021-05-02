@@ -16,7 +16,7 @@ import { Carousel } from "react-responsive-carousel";
 
 
 
-export default () => (
+const IndexCarousel = () => (
     <Carousel width="80%" centerMode useKeyboardArrows>
       <div>
         <img alt="" src={car1} />
@@ -30,7 +30,7 @@ export default () => (
         <img alt="" src={car3} />
         <p className="legend">First Weber racks of ribs!</p>
       </div>
-      <div>
+      <div> 
         <img alt="" src={car4} />
         <p className="legend">Great cut on those ribs</p>
       </div>
@@ -64,3 +64,5 @@ export default () => (
       </div>
     </Carousel>
 );
+
+export default IndexCarousel;
