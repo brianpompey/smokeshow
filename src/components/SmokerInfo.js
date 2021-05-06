@@ -3,6 +3,7 @@ import './SmokerInfo.css'
 
 
 const SmokerInfo = props => (
+    /** need image to work out somehow */
     <div className="Info">
         <img src={props.image} alt="smoker-pic"/>
         <h3>{props.title}</h3>
