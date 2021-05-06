@@ -17,6 +17,7 @@ import { Carousel } from "react-responsive-carousel";
 
 
 const IndexCarousel = () => (
+  /** Wish carousel would spread a litle better */
     <Carousel width="80%" centerMode useKeyboardArrows>
       <div>
         <img alt="" src={car1} />
