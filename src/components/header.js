@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import './Header.css'
 
 class Header extends React.Component {
+  /**need to fix up header layout some more */
   constructor(props) {
     super(props)
 
