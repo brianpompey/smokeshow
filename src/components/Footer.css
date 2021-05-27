@@ -1,0 +1,14 @@
+.Footer {
+    background: #F1F3F5;
+    padding: 50px 0;
+    display: grid;
+    grid-gap: 20px;
+}
+
+.FooterText {
+    font-size: 24px;
+    font-weight: 600;
+    color: #486791;
+    max-width: 500px;
+    margin: 0 auto;
+}
