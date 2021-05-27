@@ -2,7 +2,7 @@
 import React from 'react'
 import './Footer.css'
 
-const Footer = () => (
+const Footer = ({ children }) => (
     <div className="Footer">
         <div className="FooterText">
             <p>Thanks for visiting my page! Hopefully we can work together at some point!</p>
