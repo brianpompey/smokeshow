@@ -7,6 +7,9 @@ const Footer = ({ children }) => (
         <div className="FooterText">
             <p>Thanks for visiting my page! Hopefully we can work together at some point!</p>
         </div>
+        <div className="Copywright">
+            {children}
+        </div>
     </div>
 
 )
