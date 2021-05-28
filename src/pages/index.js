@@ -285,7 +285,7 @@ const IndexPage = () => (
               data-item-price="259.99"
               data-item-url="/smokers/electric/4"
               data-item-name="Charbroil 17202004"
-              data-item-description="Charbroil Electric Smoker"
+              data-item-description="The Charbroil Electric Smoker"
               data-item-image={ charbroilelec }
             >
               Add to Cart
