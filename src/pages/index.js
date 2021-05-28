@@ -208,7 +208,7 @@ const IndexPage = () => (
               data-item-price="399.99"
               data-item-url="/smokers/propane/5"
               data-item-name="Masterbuilt MB20051316"
-              data-item-description="Bigger Masterbuilt Propane Smoker"
+              data-item-description="Biggest Masterbuilt Propane Smoker"
               data-item-image={ mbexp }
             >
               Add to Cart
