@@ -250,7 +250,7 @@ const IndexPage = () => (
               data-item-price="124.99"
               data-item-url="/smokers/electric/2"
               data-item-name="Smokehouse Big Chief"
-              data-item-description="Smokehouse Products Big Chief Electric Smoker"
+              data-item-description="Smokehouse Products' Big Chief Electric Smoker"
               data-item-image={ smokehouse }
             >
               Add to Cart
