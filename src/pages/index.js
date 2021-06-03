@@ -684,7 +684,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-gravity">
-      <h3>Gravity Fed Smokers</h3>
+      <h3>Gravity Fed Smokers - kind on new on the block but a great option nonetheless</h3>
         <div className="smoker-group">
               <Card 
                 title="MasterBuilt 560"
