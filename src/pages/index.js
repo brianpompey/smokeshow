@@ -604,7 +604,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-offset">
-      <h3>Offset Smokers</h3>
+      <h3>Offset Smokers - The Grand Option. What BBQ is Really About</h3>
         <div className="smoker-group">
           <div className="budget">
               <p>Basic/Budget Option</p>
