@@ -443,7 +443,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-ceramic">
-      <h3>Kamado Smokers</h3>
+      <h3>Kamado Smokers - Small but super effective. For the real charcoal lovers</h3>
         <div className="smoker-group">
           <div className="budget">
               <p>Basic/Budget Option</p>
