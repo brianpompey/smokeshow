@@ -465,7 +465,7 @@ const IndexPage = () => (
             </button>
             </div>
             <div className="next-tier">
-              <p>A little more expensive</p>
+              <p>A little more expensive/ middle range</p>
               <Card 
                 title="Big Green Egg"
                 text="Kamado $900"
