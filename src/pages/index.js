@@ -404,7 +404,7 @@ const IndexPage = () => (
             </button>
             </div>
             <div className="expensive">
-              <p>Peak Tier</p>
+              <p>Peak Tier/Most Expensive</p>
               <Card 
                 title="TRAEGER TIMBERLINE 850 "
                 text="Pellet $1800"
