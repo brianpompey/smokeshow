@@ -331,7 +331,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-pellet">
-      <h3>Pellet Smokers - Super convenient but adds some real smoke flavor</h3>
+      <h3>Pellet Smokers - Super convenient but adds more smoke flavor than propane</h3>
         <div className="smoker-group">
           <div className="budget">
               <p>Basic/Budget Option</p>
