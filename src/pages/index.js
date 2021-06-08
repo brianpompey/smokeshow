@@ -219,7 +219,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-electric">
-        <h3>Electric Smokers - a little more into the "techy" style but a pretty efficient option</h3>
+        <h3>Electric Smokers - a little more into the "techy" style but a very easy and efficient option</h3>
         <div className="smoker-group">
           <div className="budget">
               <p>Basic/Budget Option</p>
