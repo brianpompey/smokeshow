@@ -59,7 +59,7 @@ const IndexPage = () => (
     <div className="smokers">
       <h2>Let's take a look at each smoker type and some examples that you can purchase!</h2>
       <div className="smokers-kettle">
-        <h3>Kettle Grills -  a staple in the backyard bbq community</h3>
+        <h3>Kettle Grills -  an important staple in the backyard bbq community</h3>
 
         <div className="smoker-group">
           <div className="budget">
