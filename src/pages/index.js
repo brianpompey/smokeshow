@@ -122,7 +122,7 @@ const IndexPage = () => (
       </div>
     <hr />
       <div className="smokers-gas">
-      <h3>Propane Smokers- not for the "purists" out there (like me) but they sure are convenient</h3>
+      <h3>Propane Smokers- not at all for the "purists" out there (like me) but they sure are convenient</h3>
 
       <div className="smoker-group">
         <div className="budget">
